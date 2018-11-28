@@ -1,15 +1,15 @@
 @import url(font-awesome.min.css);
 .container {
-  max-width: 100%;
-  width: 60%;
+  max-width: 800px;
+
 }
 
 #main {
-  		padding: 4.5em 3em 3em 3em ;
+      padding-top: 10em;
   		background: #ffffff;
   		border-radius: 4px;
   		cursor: default;
-  		max-width: 100%;
+  		/* max-width: 100%; */
   		opacity: 0.95;
   		position: relative;
   		text-align: center;
@@ -85,6 +85,9 @@
 
 .skills{
   margin-top: 10em;
+}
+.skills p{
+  max-width: 380px;
 }
 
 .projects{
