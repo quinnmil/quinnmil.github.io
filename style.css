@@ -101,3 +101,9 @@
 .projects p{
   text-align: left;
 }
+
+footer{
+  margin-top: 3em;
+  font-size: 15px;
+  color: grey;
+}
